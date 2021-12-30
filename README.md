@@ -1,2 +1,2 @@
 # git-practice
-こっちはメインで変更したよ
+conflict will
